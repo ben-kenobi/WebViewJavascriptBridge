@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/marcuswestin/WebViewJavascriptBridge'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'whatelsecani' => 'whatelsecani@gmail.com' }
-  s.source       = { :git => 'https://github.com/marcuswestin/WebViewJavascriptBridge.git', :tag => s.version }
+  s.source       = { :git => 'https://github.com/ben-kenobi/WebViewJavascriptBridge.git', :tag => s.version }
   s.platforms    = { :ios => "8.0", :osx => "" }
   s.requires_arc = true
 
